@@ -26,4 +26,4 @@ dist-ssr
 # Env apiKey
 key.env
 
-src/config/key.js
+# src/config/key.js
